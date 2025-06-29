@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-cloud-config-server-4.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/springframework/cloud/spring-cloud-config-server/4.1.0/spring-cloud-config-server-4.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
