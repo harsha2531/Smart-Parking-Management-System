@@ -41,7 +41,7 @@ The Smart Parking Management System (SPMS) solves common urban parking challenge
   - **Eureka Server**
   - **Spring Cloud Config**
   - **Spring Cloud Gateway**
-- **MySQL** (or in-memory DB during testing)
+- **Hibernate,MySQL** (or in-memory DB during testing)
 - **Postman** for API testing
 - **Maven** as build tool
 
@@ -61,7 +61,7 @@ The Smart Parking Management System (SPMS) solves common urban parking challenge
 ## 🔗 Resources
 
 - [Postman Collection](./docs/postman/Smart-Parking-Management-System.postman_collection.json)
-- ![Eureka Dashboard](./docs/eureka-dashboard-screenshot/eureka_dashboard.png)
+- [Eureka Dashboard](./docs/eureka-dashboard-screenshot/eureka_dashboard.PNG)
 
 ---
 
@@ -69,7 +69,7 @@ The Smart Parking Management System (SPMS) solves common urban parking challenge
 
 ### ✅ Eureka Server Dashboard
 
-![Eureka Dashboard](./docs/eureka-dashboard-screenshot/eureka_dashboard.png)
+![Eureka Dashboard](./docs/eureka-dashboard-screenshot/eureka_dashboard.PNG)
 ---
 
 ## 📃 License
